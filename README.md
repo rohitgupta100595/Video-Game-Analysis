@@ -1,8 +1,10 @@
-Problem Statement: 
+# Video Game Analysis
+
+## Problem Statement: 
 
 The project aims to analyze and visualize video game sales and engagement data to uncover trends in game popularity, user behavior, and platform performance. By merging sales and engagement data, we seek to offer insights into how game features, platforms, and genres influence sales, wishlists, and ratings. SQL will be used to structure and store the data, while Power BI dashboards will be developed to guide decision making for game developers, marketers, and publishers. 
 
-Business Use Cases: 
+## Business Use Cases: 
 * Game Marketing Strategy: 
   * Identify high-performing genres and platforms to target marketing efforts.
   * Analyze rating and wishlist trends to understand user preferences.  
