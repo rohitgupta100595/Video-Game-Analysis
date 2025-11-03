@@ -4,8 +4,8 @@ The project aims to analyze and visualize video game sales and engagement data t
 
 Business Use Cases: 
 Game Marketing Strategy: 
-• Identify high-performing genres and platforms to target marketing efforts. 
-• Analyze rating and wishlist trends to understand user preferences.  
+-- Identify high-performing genres and platforms to target marketing efforts. 
+-- Analyze rating and wishlist trends to understand user preferences.  
 Product Development: 
 • Evaluate how different game attributes (e.g., rating, genre, developer) relate to sales an
  d engagement. 
